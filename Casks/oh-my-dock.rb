@@ -1,6 +1,6 @@
 cask "oh-my-dock" do
-  version "0.1.0"
-  sha256 "9dc8cc0be18f85bfbe46901e3eae608cdacd6e29ea4eea2aa7440efc2aebe3b7"
+  version "0.2.0"
+  sha256 "83caa4f71e09380c869c793f16835ca944bf60edff312da7453fdf2a50511858"
 
   url "https://github.com/Farzin-Firoozi/oh-my-dock/releases/download/v#{version}/OhMyDock-#{version}.zip"
   name "oh-my-dock"
